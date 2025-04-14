@@ -29,5 +29,6 @@ React · JavaScript · HTML/CSS · Azure · Figma · Three.js · GitHub · Blend
 [<a href="https://portfolio-claudias-projects-c60545a1.vercel.app/">Portfolio</a>] [<a href="https://www.instagram.com/wommiezzz/">Instagram</a>] [<a href="https://www.linkedin.com/in/claudia-rebeca-hodoroga-b1a4012b0/">LinkedIn</a>] [<a href="https://www.tiktok.com/@wommiez">TikTok</a>]
 
 ---
+<img src="https://64.media.tumblr.com/a7615491c79cac26d15c6732629c8e9e/b18aff3ce9323114-a9/s100x200/d49528727ac987f91f7287aa5fceef33cfce1735.gifv" alt="cute gif" width="100%"/>
 
 <p align="center">always building, always learning — thanks for visiting ♡</p>
