@@ -1,5 +1,5 @@
 <h1 align="center">Claudia Rebeca Hodoroga</h1>
-<p align="center"><i>Creative technologist building interactive, expressive digital spaces</i></p>
+<p align="center"><i>Creative coder building interactive and expressive digital spaces</i></p>
 
 ---
 
