@@ -21,7 +21,7 @@ Currently building in **React**, learning cloud services, and exploring design a
 
 ### 💻 Tech & Tools
 
-(https://skillicons.dev/icons?i=html,css,js,react,figma,threejs,azure,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,threejs,azure,blender)](https://skillicons.dev)
 
 
 ### 🧃 Find Me Here
