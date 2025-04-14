@@ -32,4 +32,4 @@ Currently building in **React**, learning cloud services, and exploring design a
 
 <p align="center">always building, always learning — thanks for visiting ♡</p>
 
-<img src="https://64.media.tumblr.com/cebfd4eee22e0f70b339b6456f134bbf/7e21f489a977f4d0-a3/s75x75_c1/2ef50c39fb1a926c98bbca51aedec701a37438d6.gifv" alt="cute divider" width="20%" align="center"/>
+<img src="https://64.media.tumblr.com/cebfd4eee22e0f70b339b6456f134bbf/7e21f489a977f4d0-a3/s75x75_c1/2ef50c39fb1a926c98bbca51aedec701a37438d6.gifv" alt="cute divider" width="10%" display="block" align="center"/>
