@@ -26,7 +26,7 @@ Currently building in **React**, learning cloud services, and exploring design a
 
 ### 🧃 Find Me Here
 
-[<a href="https://portfolio-claudias-projects-c60545a1.vercel.app/">Portfolio</a>] [<a href="https://www.linkedin.com/in/claudia-rebeca-hodoroga-b1a4012b0/">LinkedIn</a>] [<a href="https://www.tiktok.com/@wommiez">TikTok</a>] [<a href="https://www.instagram.com/wommiezzz/">Instagram</a>]
+[<a href="https://portfolio-claudias-projects-c60545a1.vercel.app/">Portfolio</a>] [<a href="https://www.linkedin.com/in/claudia-rebeca-hodoroga-b1a4012b0/">LinkedIn</a>] 
 
 <img src="https://64.media.tumblr.com/cb5b6a1fe713d0ae35c55de0055aa821/81e02d8e76540f0c-de/s1280x1920/0a556a97dffe8ae5dc10c9ccd1f382ccd2571113.pnj" alt="cute divider" width="100%"/>
 
