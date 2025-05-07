@@ -5,7 +5,7 @@
 
 ### 🌿 About
 
-I'm Claudia — a software engineering student based in Girona, Spain.  
+I'm Claudia — a Videogame Development student based in Girona, Spain.  
 I care about visual storytelling, emotional interfaces, and crafting playful tech experiences.  
 Currently building in **React**, learning cloud services, and exploring design as a way to connect.
 
