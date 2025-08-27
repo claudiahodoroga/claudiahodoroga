@@ -12,10 +12,8 @@ Currently building in **React**, learning cloud services, and exploring design a
 <img src="https://64.media.tumblr.com/7514342ddf50463872fde0ea0987629f/81e02d8e76540f0c-49/s1280x1920/f437cda21c1b7c7e3a61f606432893d3b970ab09.pnj" alt="cute divider" width="100%"/>
 
 ### ✨ Currently Working On
-- **Void Pet** – a dreamlike virtual pet built with React & Azure
-- **20 Lessons Before 21** – a reflective series on creativity & growth
-- **UI Playground** – experimenting with small frontend components and motion
-
+- **Pluma** – daily lessons for aspiring writers
+- **Google Developers Group** – organizing events that connect people and technology
 
 <img src="https://64.media.tumblr.com/3215a13fe9b4db0342c517a0e4970ad8/81e02d8e76540f0c-7c/s1280x1920/cd1e91e5070d74dd0c62f122b9737baacd1567dc.pnj" alt="cute divider" width="100%"/>
 
